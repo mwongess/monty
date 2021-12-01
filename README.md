@@ -191,7 +191,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Amos Mwongela Gabriel - [@cm-amos](https://github.com/cm-amos)
+* Amos Mwongela Gabriel - [@cm-amos](https://github.com/cm-amos)
 
 ## :mag: License
 
