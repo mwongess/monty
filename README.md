@@ -197,11 +197,6 @@ $ cd Betty; ./install.sh
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-
-## :mega: Acknowledgments
-
-* Stack Overflow (help on various memory errors (not leaks))
-
 <p align="center">
   <img src="http://wpng">
 </p>
