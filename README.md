@@ -193,9 +193,6 @@ $ cd Betty; ./install.sh
 
 * Amos Mwongela Gabriel - [@cm-amos](https://github.com/cm-amos)
 
-## :mag: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 <p align="center">
   <img src="http://wpng">
